@@ -1,0 +1,23 @@
+#light-head {
+    width: 160px;
+    height: 140px;
+    background-color: rgb(226, 230, 230);
+}
+
+#light-stem {
+    width: 80px;
+    height: 230px;
+    background-color: rgb(226, 230, 230)
+}
+
+#orange-book {
+    width: 100px;
+    height: 200px;
+    background-color: rgb(255, 111, 0);
+}
+
+#book-top {
+    width: 100px;
+    height: 20px
+    background-color: rgb(255, 111, 0)
+}
